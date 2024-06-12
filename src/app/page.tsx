@@ -11,28 +11,15 @@ export default function Home() {
     return (
       <main className={styles.main}>
       <div className={styles.description}>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
     <>
     
     <NavBar />
     <div id="Inhoud">
       <Foto />
-    
     <AboutMe />
-
     </div>
-    <div id="ProjectenOverzicht">
-      <div id="Projecten">
-      <div id="MasterMind">
-        <a href="/projecten"><img id="VerzuimNavigatorFoto" src="/verzuimnavigatorfoto.png"/></a>
-        <h1>Master Mind</h1>
-      </div>
-      <div id="Verzuimnavigator">
-        <a href="/projecten"><img id="VerzuimNavigatorFoto" src="/verzuimnavigatorfoto.png"/></a>
-        <h1>Verzuimnavigator</h1>
-      </div>
-      </div>
-      
-    </div>
+    <Projecten />
     </>
       </div>
     </main>
