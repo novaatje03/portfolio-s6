@@ -4,12 +4,13 @@ export default function PersonalProject() {
 
     return (
     <>
+    <div className="ProjectenPagina">
     <NavBar />
-
-    <h2>Personal Project</h2>
+    <h1>Personal Project</h1>
     <p>
         ik heb gewerkt aan de firegioej
     </p>
+    </div>
     </>
 )
 }

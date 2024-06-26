@@ -22,7 +22,7 @@ export default function Projecten() {
         <div id="Project2">
           <div id="Kopje"><h1>Persoonlijk Project</h1></div>
           <div id="PersoonlijkProject">
-            <a href="/persoonlijkproject"><img id="PersoonlijkProjectFoto" src="/persoonlijkprojectfoto.jpg"/></a>
+            <a href="/personalproject"><img id="PersoonlijkProjectFoto" src="/persoonlijkprojectfoto.jpg"/></a>
           </div>
         </div>
       </div>

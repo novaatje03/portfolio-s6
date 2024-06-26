@@ -1,5 +1,6 @@
 "use client"
 import AboutMe from "@/app/aboutme/page";
+import Reflectie from "@/app/reflectie/page";
 import styles from "./page.module.css";
 import NavBar from "@/components/navbar";
 import Foto from "@/app/foto/page";
@@ -10,7 +11,7 @@ export default function Home() {
 
   const [data, setData] = useState([]);
 
-  const apiUrl = 'https://www.boredapi.com/api/activity';
+  const apiUrl = 'https://official-joke-api.appspot.com/random_joke';
 
 
   useEffect(() => {
@@ -48,9 +49,10 @@ export default function Home() {
     <AboutMe />
     </div>
     <Projecten />
-
+    <Reflectie />
     <div>
-     <div className="flex-grow flex items-center justify-center">
+     <div id="ApiStyle">
+      <h2>API</h2>
         { JSON.stringify(data, null, 2) }
       </div>
       </div>
