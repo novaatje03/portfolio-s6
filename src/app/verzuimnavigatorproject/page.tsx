@@ -10,6 +10,7 @@ export default function VerzuimNavigatorProject() {
       <div id="MasterMindPagina">
       <div id="MasterMindProject">
       <h2>Verzuimnavigator</h2>
+      <br></br>
       <p>
       Wij zijn met de klas naar Indicia toe geweest om uitleg te krijgen over het project.
       Vanuit de uitleg die wij hebben gekregen en het bestand wat met ons is gedeeld, heb ik <a href="https://i461456.hera.fontysict.net/pdfs/vragenrik.pdf">vragen</a> die wij hadden naar Rik gestuurd en zijn wij
@@ -60,6 +61,10 @@ export default function VerzuimNavigatorProject() {
       <br></br><br></br>
       Als allerlaatste is er nog een <a href="https://i461456.hera.fontysict.net/pdfs/Overdrachtsdocument.pdf">overdrachtsdocument</a> door ons allen opgesteld en heb ik Rik een mailtje gestuurd met alle nuttige documenten
       en bestanden van dit project. 
+      <br></br><br></br>
+
+      Voor dit project heb ik ook nog een eindadviesdocument geschreven om aan te geven welke functionaliteiten er al zijn, op welke manier het project nog uitgebreid kan worden en wat er nog gemaakt moet worden. Hierbij wordt telkens de context en een advies beschreven. 
+      Als groep is er ook een adviesdocument geschreven, maar ik heb besloten nog een eigen versie te maken om de context beter te kunnen beschrijven.
       </p>
       </div>
       </div>

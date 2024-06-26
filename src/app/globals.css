@@ -192,15 +192,15 @@ img#PersoonlijkProjectFoto
 
 h1#LeeruitkomstenKopje
 {
-  font-size: 4vw;
+  font-size: 22px;
 }
 
 h2{
-  font-size: 3vw;
+  font-size: 18px;
 }
 
 h3{
-  font-size: 2vw;
+  font-size: 14px;
 }
 
 div#Reflectie
@@ -222,9 +222,21 @@ div#LeeruitkomstenPagina
   flex-direction: column;
   font-family: sans-serif;
   flex-wrap: wrap;
-  width: 100%;
+  width: 95vw;
   background: linear-gradient(#FA696B, #A190F4);
-  height: 100vw;
+  height: 1550px;
+  margin-left: 20px;
+}
+
+div#LeeruitkomstenBorder
+{
+  border: 4px white solid;
+  padding: 40px;
+  margin: 40px;
+  width: 89%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 div#MasterMindPagina

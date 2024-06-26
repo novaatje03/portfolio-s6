@@ -8,7 +8,8 @@ export default function PersonalProject() {
     <NavBar />
     <div id="MasterMindPagina">
   <div id="MasterMindProject">
-    <h1>Personal Project</h1>
+    <h2>Personal Project</h2>
+    <br></br>
     <p>
         Na een gesprek te hebben gehad met Arjan en Bart ben ik begonnen aan mijn personal project. Ik ben onderzoek gaan doen naar de verschillen
         in Western en Eastern design. Dit was een onderzoek wat ik ook voor mijn minor moest doen, alleen richtte zich dat voornamelijk op wat British
