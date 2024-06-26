@@ -49,7 +49,7 @@ export default function MasterMindProject() {
       omdat we in het begin van het project allemaal taken op ons hebben genomen binnen de groep en ik gitmaster kreeg. De pocs die ik heb gemaakt staan op deze <a href="https://github.com/novaatje03/semester6pocs">git</a>.
       <br></br><br></br>
       
-      Voor dit project heb ik ook nog een eindadviesdocument geschreven om aan te geven welke functionaliteiten er al zijn, op welke manier het project nog uitgebreid kan worden en wat er nog gemaakt moet worden. Hierbij wordt telkens de context en een advies beschreven.
+      Voor dit project heb ik ook nog een <a href="https://i461456.hera.fontysict.net/pdfs/ProjectMasterMindsEindadvies.pdf">eindadviesdocument</a> (verwijzingen in het bestand: <a href="https://git.fhict.nl/I461456/master-minds-project">alle losse POCs</a> en <a href="https://i461456.hera.fontysict.net/pdfs/Onderzoekleerstijlendocentenenleerlingen.pdf">onderzoek naar leerstijlen</a>) geschreven om aan te geven welke functionaliteiten er al zijn, op welke manier het project nog uitgebreid kan worden en wat er nog gemaakt moet worden. Hierbij wordt telkens de context en een advies beschreven.
       </p>
       </div>
       </div>
