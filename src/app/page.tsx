@@ -10,7 +10,7 @@ export default function Home() {
 
   const [data, setData] = useState([]);
 
-  const apiUrl = 'https://catfact.ninja/fact';
+  const apiUrl = 'https://www.boredapi.com/api/activity';
 
 
   useEffect(() => {
