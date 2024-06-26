@@ -17,6 +17,7 @@ export default function Leeruitkomsten() {
     <a href="https://i461456.hera.fontysict.net/pdfs/Conceptomschrijvingen.pdf">Puzzel Mystery</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Conceptideeën.pdf">Concept ideeën</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Conceptrequirements.pdf">Sorting Hat(concept 2)</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ProjectMasterMindsEindadvies.pdf">eindadviesdocument</a>
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/DebriefingIndicia.pdf">Debriefing Indicia</a>
@@ -34,6 +35,7 @@ export default function Leeruitkomsten() {
     <h3>MasterMinds Project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/Onderzoekleerstijlendocentenenleerlingen.pdf">bieb onderzoek over leerstijlen</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Behaviouralarchetypes.pdf">behavioural archetypes</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ProjectMasterMindsEindadvies.pdf">eindadviesdocument</a>
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/A-Busabilitytest.pdf">AB Test bestand</a>
@@ -53,11 +55,15 @@ export default function Leeruitkomsten() {
     <a href="https://github.com/novaatje03/semester6pocs">git mijn POCs</a>
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
-    <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document programmeren%</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Overdrachtsdocument.pdf">overdrachtsdocument</a>
     <br></br><br></br><br></br>
     <h2>Learning outcome 4: Professional standard</h2>
     <h3>MasterMinds Project</h3>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Onderzoekleerstijlendocentenenleerlingen.pdf">bieb onderzoek over leerstijlen</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Behaviouralarchetypes.pdf">behavioural archetypes</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/OnderzoekHolobox.pdf">literature study onderzoek</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ProjectMasterMindsEindadvies.pdf">eindadviesdocument</a>
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/Samenwerkingscontract.pdf">samenwerkingscontract</a>
@@ -69,9 +75,12 @@ export default function Leeruitkomsten() {
     Gitmaster
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
+    <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=51-2&t=Boguy6pgqPYPqCvU-0">iteraties</a>
     <a href="https://www.figma.com/design/dZNNecmU21dpkP7MxPypwe/presentatie">eindpresentatie</a>
     Contactpersoon met Rik
-    Het leiden van de groep, om ervoor te zorgen dat iedereen met iets aan de gang ging.
+    Het leiden van de groep, om ervoor te zorgen dat iedereen met iets aan de gang ging.<br></br>
+    Feedback in feedpulse<br></br>
+    Vragen in Teams aan Sam
     </div>
     </div>
     </>

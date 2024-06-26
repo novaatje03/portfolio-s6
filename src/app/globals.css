@@ -188,6 +188,7 @@ img#PersoonlijkProjectFoto
   align-content: center;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 50px;
 }
 
 h1#LeeruitkomstenKopje
@@ -224,7 +225,7 @@ div#LeeruitkomstenPagina
   flex-wrap: wrap;
   width: 95vw;
   background: linear-gradient(#FA696B, #A190F4);
-  height: 1550px;
+  height: 1700px;
   margin-left: 20px;
 }
 
