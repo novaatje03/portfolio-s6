@@ -1,5 +1,4 @@
 "use client"
-
 import AboutMe from "@/app/aboutme/page";
 import styles from "./page.module.css";
 import NavBar from "@/components/navbar";
