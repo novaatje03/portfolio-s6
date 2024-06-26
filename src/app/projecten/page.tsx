@@ -4,8 +4,9 @@ export default function Projecten() {
     return (
     <>
        <div id="ProjectenOverzicht">
-      <div id="Projecten">
+        <div id="Overzicht">
       <div id="Kopje"><h1>Groepsprojecten</h1></div>
+      <div id="Projecten">
       <div id="MasterMind">
         <a href="/mastermindproject"><img id="MasterMindFoto" src="/mastermindsfoto.png"/></a>
         <h1>Master Mind</h1>
@@ -16,8 +17,9 @@ export default function Projecten() {
       </div>
       </div>
       </div>
+      </div>
       <div id="ProjectOverzicht">
-        <div id="Project">
+        <div id="Project2">
           <div id="Kopje"><h1>Persoonlijk Project</h1></div>
           <div id="PersoonlijkProject">
             <a href="/persoonlijkproject"><img id="PersoonlijkProjectFoto" src="/persoonlijkprojectfoto.jpg"/></a>

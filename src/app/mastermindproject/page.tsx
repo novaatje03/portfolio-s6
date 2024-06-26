@@ -1,7 +1,12 @@
+import NavBar from "@/components/navbar2";
+
 export default function MasterMindProject() {
 
     return (
     <>
+    
+
+<NavBar />
 
 <h2>Master Mind</h2>
     <p>Het eerste project voor dit semester waar ik mee aan de gang ging is het Master Mind project.
