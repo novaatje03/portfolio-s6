@@ -1,4 +1,4 @@
-import NavBar from "@/components/navbar2";
+import NavBar from "@/components/navbar";
 
 export default function MasterMindProject() {
 
@@ -6,8 +6,10 @@ export default function MasterMindProject() {
     <>
         <div className="ProjectenPagina">
     <NavBar />
-
+<div id="MasterMindPagina">
+  <div id="MasterMindProject">
 <h2>Master Mind</h2>
+<br></br>
     <p>Het eerste project voor dit semester waar ik mee aan de gang ging is het Master Mind project.
       Het was de bedoeling dat we met behulp van een Holobox en AI een concept uit gingen werken waar je ook betrekking neemt tot de leerstijlen van kinderen.
       Zo kan je het leren van kinderen bevorderen. <br></br>
@@ -36,7 +38,9 @@ export default function MasterMindProject() {
       maar dat kwam niet overeen met de inspiratie en het beeld wat ik in mijn hoofd had. Dit was eigenlijk een spel buiten de holobox, maar omdat we
       ons meer wilden gaan focussen op de holobox. Heb ik het spel omgebouwd naar een <a href="https://i461456.hera.fontysict.net/Cubeminigame">3d kubus</a>.
       
-      De code van onze onderdelen is in <a href="https://git.fhict.nl/I461456/master-minds-project">git</a> gezet, deze git heb ik aangemaakt, omdat we in het begin van het project allemaal taken op ons hebben genomen binnen de groep en ik gitmaster kreeg.<br></br></p>
+      De code van onze onderdelen is in <a href="https://git.fhict.nl/I461456/master-minds-project">git</a> gezet, deze git heb ik aangemaakt, omdat we in het begin van het project allemaal taken op ons hebben genomen binnen de groep en ik gitmaster kreeg. De pocs die ik heb gemaakt staan op deze <a href="https://github.com/novaatje03/semester6pocs">git</a>.<br></br></p>
+      </div>
+      </div>
       </div>
       </>
           )

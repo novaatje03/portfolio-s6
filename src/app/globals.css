@@ -5,7 +5,7 @@
   margin: 0;
 }
 
-div #AboutMe
+div#AboutMe
 {
     display: flex;
     font-family: sans-serif;
@@ -17,13 +17,13 @@ div #AboutMe
     margin-left: 150px;
 }
 
-div #Border
+div#Border
 {
   padding: 30px;
   border: 3px solid white;
 }
 
-div #Foto
+div#Foto
 {
   height: 600px;
   width: 600px;
@@ -42,13 +42,13 @@ margin-right: 150px;
   box-shadow: 0px 0px 6px #000000;
 }
 
-div #Inhoud
+div#Inhoud
 {
   display:flex;
   justify-content:center;
 }
 
-div #NavBar{
+div#NavBar{
   display: flex;
   flex-wrap: wrap;
   width: 98%;
@@ -61,9 +61,16 @@ div #NavBar{
 a#Links
 {
   margin: 20px;
+  background: -webkit-linear-gradient(#FA696B, #A190F4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-div #ProjectenOverzicht
+a
+{
+  color: white;
+}
+div#ProjectenOverzicht
 {
   margin-top: 200px;
   background: linear-gradient(#FA696B, #A190F4);
@@ -74,7 +81,7 @@ div #ProjectenOverzicht
   justify-content: center;
 }
 
-div #Overzicht
+div#Overzicht
 {
   border: 4px white solid;
   padding: 30px;
@@ -84,7 +91,7 @@ div #Overzicht
   justify-content: space-around;
 }
 
-div #Projecten
+div#Projecten
 {
   display: flex;
   flex-wrap: wrap;
@@ -94,7 +101,7 @@ div #Projecten
   width: 90%;
 }
 
-div #MasterMind
+div#MasterMind
 {
   display: block;
   padding: 15px;
@@ -107,7 +114,7 @@ div #MasterMind
 
 
 
-div #VerzuimNavigator
+div#VerzuimNavigator
 {
   display: block;
   padding: 15px;
@@ -130,7 +137,7 @@ img#VerzuimNavigatorFoto
   width: 550px;
 }
 
-div #ProjectOverzicht
+div#ProjectOverzicht
 {
   margin-top: 200px;
   background: linear-gradient(#FA696B, #A190F4);
@@ -141,7 +148,7 @@ div #ProjectOverzicht
   justify-content: center;
 }
 
-div #Project2
+div#Project2
 {
     border: 4px white solid;
     padding: 40px;
@@ -154,7 +161,7 @@ div #Project2
     flex-direction: column;
 }
 
-div #PersoonlijkProject
+div#PersoonlijkProject
 {
   display: block;
   margin-top: 20px;
@@ -183,12 +190,20 @@ img#PersoonlijkProjectFoto
   align-items: center;
 }
 
-h1 #LeeruitkomstenKopje
+h1#LeeruitkomstenKopje
 {
-  font-size: 18px;
+  font-size: 4vw;
 }
 
-div #Reflectie
+h2{
+  font-size: 3vw;
+}
+
+h3{
+  font-size: 2vw;
+}
+
+div#Reflectie
 {
   display: flex;
   font-family: sans-serif;
@@ -201,6 +216,33 @@ div #Reflectie
   margin-top: 100px;
 }
 
+div#LeeruitkomstenPagina
+{
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  flex-wrap: wrap;
+  width: 100%;
+  background: linear-gradient(#FA696B, #A190F4);
+  height: 100vw;
+}
+
+div#MasterMindPagina
+{
+  font-family: sans-serif;
+  width: 100%;
+  background: linear-gradient(#FA696B, #A190F4);
+  padding: 8px;
+}
+
+div#MasterMindProject
+{
+  border: 4px white solid;
+  padding: 40px;
+  margin: 40px;
+  width: 89%;
+}
+
 @media screen and (max-width: 400px)
 {
 
@@ -210,7 +252,7 @@ div #Reflectie
     margin: 0;
   }
   
-  div #AboutMe
+  div#AboutMe
   {
       font-family: sans-serif;
       font-size: 12px;
@@ -221,13 +263,13 @@ div #Reflectie
   }
 
   
-  div #Border
+  div#Border
   {
     padding: 5px;
     border: 3px solid white;
   }
   
-  div #Foto
+  div#Foto
   {
     height: 300px;
     width: 300px;
@@ -245,7 +287,7 @@ div #Reflectie
   box-shadow: 0px 0px 6px #000000;
 }
 
-div #Inhoud
+div#Inhoud
 {
   display:flex;
   flex-direction: column;
@@ -253,7 +295,7 @@ div #Inhoud
   align-items: center;
 }
 
-div #NavBar{
+div#NavBar{
   display: flex;
   flex-wrap: wrap;
   width: 98%;
@@ -269,7 +311,7 @@ a#Links
   margin: 20px;
 }
 
-div #ProjectenOverzicht
+div#ProjectenOverzicht
 {
   margin-top: 200px;
   background: linear-gradient(#FA696B, #A190F4);
@@ -280,7 +322,7 @@ div #ProjectenOverzicht
   justify-content: center;
 }
 
-div #Projecten
+div#Projecten
 {
   border: 4px white solid;
   padding: 30px;
@@ -292,7 +334,7 @@ div #Projecten
   width: 90%;
 }
 
-div #MasterMind
+div#MasterMind
 {
   display: block;
   padding: 15px;
@@ -305,7 +347,7 @@ div #MasterMind
 
 
 
-div #VerzuimNavigator
+div#VerzuimNavigator
 {
   display: block;
   padding: 15px;
@@ -328,7 +370,7 @@ img#VerzuimNavigatorFoto
   width: 550px;
 }
 
-div #ProjectOverzicht
+div#ProjectOverzicht
 {
   margin-top: 200px;
   background: linear-gradient(#FA696B, #A190F4);
@@ -339,7 +381,7 @@ div #ProjectOverzicht
   justify-content: center;
 }
 
-div #Project
+div#Project
 {
     border: 4px white solid;
     padding: 30px;
@@ -351,7 +393,7 @@ div #Project
     width: 90%;
 }
 
-div #PersoonlijkProject
+div#PersoonlijkProject
 {
   display: block;
   padding: 15px;

@@ -1,4 +1,4 @@
-import NavBar from "@/components/navbar2";
+import NavBar from "@/components/navbar";
 
 export default function Leeruitkomsten() {
 
@@ -6,7 +6,7 @@ export default function Leeruitkomsten() {
     <>
     
     <NavBar />
-
+    <div id="LeeruitkomstenPagina">
     <h1 id="LeeruitkomstenKopje">Leeruitkomsten</h1>
     <h2>Learning outcome 1: User interaction (analysis & advice)</h2>
     <h3>MasterMinds Project</h3>
@@ -24,9 +24,7 @@ export default function Leeruitkomsten() {
     <h2>Learning outcome 5: Personal leadership</h2>
     <h3>MasterMinds Project</h3>
     <h3>Verzuimnavigator Project</h3>
-    <p>
-        ik heb gewerkt aan de firegioej
-    </p>
+    </div>
     </>
           )
         }

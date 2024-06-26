@@ -1,4 +1,4 @@
-import NavBar from "@/components/navbar2";
+import NavBar from "@/components/navbar";
 
 export default function VerzuimNavigatorProject() {
 
@@ -7,6 +7,8 @@ export default function VerzuimNavigatorProject() {
     <div className="ProjectenPagina">
       <NavBar />
 
+      <div id="MasterMindPagina">
+      <div id="MasterMindProject">
       <h2>Verzuimnavigator</h2>
       <p>
       Wij zijn met de klas naar Indicia toe geweest om uitleg te krijgen over het project.
@@ -59,6 +61,8 @@ export default function VerzuimNavigatorProject() {
       Als allerlaatste is er nog een <a href="https://i461456.hera.fontysict.net/pdfs/Overdrachtsdocument.pdf">overdrachtsdocument</a> door ons allen opgesteld en heb ik Rik een mailtje gestuurd met alle nuttige documenten
       en bestanden van dit project. 
       </p>
+      </div>
+      </div>
       </div>
     </>
     )
