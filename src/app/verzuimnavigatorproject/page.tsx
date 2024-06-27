@@ -50,7 +50,7 @@ export default function VerzuimNavigatorProject() {
       gaan maken. Ik heb aan de <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=51-2&t=Boguy6pgqPYPqCvU-0">contact en artikel pagina</a> gewerkt. 
       <br></br><br></br>
       Voor de laatste sprint was er ineens een stuk minder tijd over. Hierdoor hebben wij ervoor gekozen om de app als een clickable prototype in figma te maken.
-      Mike en Wesley zijn aan de slag gegaan om de pagina’s samen te brengen en Fleur en ik hebben aan het <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document</a> gewerkt, waarin uitgelegd werd welke
+      Mike en Wesley zijn aan de slag gegaan om de pagina’s samen te brengen en Fleur en ik hebben aan het <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document(programmeren)</a> gewerkt, waarin uitgelegd werd welke
       codeertalen en frameworks het beste gebruikt konden worden als de applicatie zou worden gecodeerd. In dit advies document heb ik aan de introductie, een
       gedeelte van de conclusie, projectomschrijving en database gewerkt, waarbij ik hier en daar ook met Fleur heb meegekeken voor de codeertaal en frameworks,
       zodat dit goed zou aansluiten op elkaar. 
@@ -63,7 +63,7 @@ export default function VerzuimNavigatorProject() {
       en bestanden van dit project. 
       <br></br><br></br>
 
-      Voor dit project heb ik ook nog een <a href="https://i461456.hera.fontysict.net/pdfs/ProjectVerzuimnavigatorEindadvies.pdf">eindadviesdocument</a> geschreven om aan te geven welke functionaliteiten er al zijn, op welke manier het project nog uitgebreid kan worden en wat er nog gemaakt moet worden. Hierbij wordt telkens de context en een advies beschreven. 
+      Voor dit project heb ik ook nog een <a href="https://i461456.hera.fontysict.net/pdfs/ProjectVerzuimnavigatorEindadvies.pdf">eindadviesdocument</a>(verwijzingen naar andere documenten: <a href="https://i461456.hera.fontysict.net/pdfs/Stappenplanverzuimnavigator.pdf">stappenplan</a>, <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document(programmeren)</a>, <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">cart sorting, gebruikerstest</a>) geschreven om aan te geven welke functionaliteiten er al zijn, op welke manier het project nog uitgebreid kan worden en wat er nog gemaakt moet worden. Hierbij wordt telkens de context en een advies beschreven. 
       Als groep is er ook een <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">adviesdocument</a> geschreven, maar ik heb besloten nog een eigen versie te maken om de context beter te kunnen beschrijven. In dat document heb ik aan de nieuwe inleiding, projectomschrijving, design principles en de database.
       </p>
       </div>
