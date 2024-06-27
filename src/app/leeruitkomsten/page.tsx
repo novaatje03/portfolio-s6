@@ -69,6 +69,9 @@ export default function Leeruitkomsten() {
     <h3>Verzuimnavigator Project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document programmeren</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Overdrachtsdocument.pdf">overdrachtsdocument</a>
+    <br></br><br></br>
+    <h3>Overig</h3>
+    <a href="https://github.com/novaatje03/portfolio-s6">Code website</a>
     <br></br><br></br><br></br>
     <h2>Learning outcome 4: Professional standard</h2>
     <h3>MasterMinds Project</h3>
@@ -95,11 +98,14 @@ export default function Leeruitkomsten() {
     <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=51-2&t=Boguy6pgqPYPqCvU-0">iteraties</a>
     <a href="https://www.figma.com/design/dZNNecmU21dpkP7MxPypwe/presentatie">eindpresentatie</a>
     Contactpersoon met Rik
+    <br></br>
     Het leiden van de groep, om ervoor te zorgen dat iedereen met iets aan de gang ging.<br></br>
     <br></br><br></br>
     <h3>Overig</h3>
-    Feedback in feedpulse<br></br>
-    Vragen in Teams aan Sam<br></br>
+    Feedback in feedpulse
+    <br></br>
+    Vragen in Teams aan Sam
+    <br></br>
     Expo Mindlabs woordvoerder groepje
     </div>
     </div>
