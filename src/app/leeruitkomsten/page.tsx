@@ -30,6 +30,12 @@ export default function Leeruitkomsten() {
     <a href="https://i461456.hera.fontysict.net/pdfs/Onderzoekweergevenvaninformatieorganisatiesenverzekeringen.pdf">Benchmark creation en Competetive Analysis onderzoek</a>
     <a href="https://www.figma.com/design/U2qEzle6m2gLjPYS31tOpL/Wireframes-Homepage?node-id=185-114&t=r11mAWZS8ajUp4u3-0&fuid=1110887846501005290">thema’s</a>
     <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=51-2&t=Boguy6pgqPYPqCvU-0">contact en artikel pagina</a>
+    <br></br><br></br>
+    <h3>Personal Project</h3>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport">Research report</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/interviewaliexpress">kleine interview AliExpress</a>
+    <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=140-2&t=F1iNUCoUyh4PxCti-0">wireframes en designs</a>
+
     <br></br><br></br><br></br>
     <h2>Learning outcome 2: User interaction (execution & validation) </h2>
     <h3>MasterMinds Project</h3>
@@ -44,6 +50,12 @@ export default function Leeruitkomsten() {
     <a href="https://i461456.hera.fontysict.net/pdfs/DebriefingIndicia.pdf">debriefing</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Bevindingenverzuimnavigator.pdf">bevindingen bestand</a>
     <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=51-2&t=Boguy6pgqPYPqCvU-0">iteraties</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ProjectVerzuimnavigatorEindadvies.pdf">eindadviesdocument</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">adviesdocument(onder andere de design principles)</a>
+    <br></br><br></br>
+    <h3>Personal project</h3>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport">Research report</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/interviewaliexpress">kleine interview AliExpress</a>
     <br></br><br></br><br></br>
     <h2>Learning outcome 3: Software design and realisation </h2>
     <h3>MasterMinds Project</h3>
@@ -55,7 +67,7 @@ export default function Leeruitkomsten() {
     <a href="https://github.com/novaatje03/semester6pocs">git mijn POCs</a>
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
-    <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document programmeren%</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Frameworkonderzoek.pdf">advies document programmeren</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Overdrachtsdocument.pdf">overdrachtsdocument</a>
     <br></br><br></br><br></br>
     <h2>Learning outcome 4: Professional standard</h2>
@@ -64,11 +76,16 @@ export default function Leeruitkomsten() {
     <a href="https://i461456.hera.fontysict.net/pdfs/Behaviouralarchetypes.pdf">behavioural archetypes</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/OnderzoekHolobox.pdf">literature study onderzoek</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/ProjectMasterMindsEindadvies.pdf">eindadviesdocument</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">adviesdocument</a>
     <br></br><br></br>
     <h3>Verzuimnavigator Project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/Samenwerkingscontract.pdf">samenwerkingscontract</a>
     <a href="https://www.figma.com/design/dZNNecmU21dpkP7MxPypwe/presentatie">eindpresentatie</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/Overdrachtsdocument.pdf">overdrachtsdocument</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ProjectVerzuimnavigatorEindadvies.pdf">eindadviesdocument</a>
+    <br></br><br></br>
+    <h3>Overig</h3>
+    Expo Mindlabs woordvoerder groepje
     <br></br><br></br><br></br>
     <h2>Learning outcome 5: Personal leadership</h2>
     <h3>MasterMinds Project</h3>
@@ -79,8 +96,11 @@ export default function Leeruitkomsten() {
     <a href="https://www.figma.com/design/dZNNecmU21dpkP7MxPypwe/presentatie">eindpresentatie</a>
     Contactpersoon met Rik
     Het leiden van de groep, om ervoor te zorgen dat iedereen met iets aan de gang ging.<br></br>
+    <br></br><br></br>
+    <h3>Overig</h3>
     Feedback in feedpulse<br></br>
-    Vragen in Teams aan Sam
+    Vragen in Teams aan Sam<br></br>
+    Expo Mindlabs woordvoerder groepje
     </div>
     </div>
     </>

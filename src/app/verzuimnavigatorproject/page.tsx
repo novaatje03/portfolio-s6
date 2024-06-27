@@ -64,7 +64,7 @@ export default function VerzuimNavigatorProject() {
       <br></br><br></br>
 
       Voor dit project heb ik ook nog een <a href="https://i461456.hera.fontysict.net/pdfs/ProjectVerzuimnavigatorEindadvies.pdf">eindadviesdocument</a> geschreven om aan te geven welke functionaliteiten er al zijn, op welke manier het project nog uitgebreid kan worden en wat er nog gemaakt moet worden. Hierbij wordt telkens de context en een advies beschreven. 
-      Als groep is er ook een <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">adviesdocument</a> geschreven, maar ik heb besloten nog een eigen versie te maken om de context beter te kunnen beschrijven.
+      Als groep is er ook een <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">adviesdocument</a> geschreven, maar ik heb besloten nog een eigen versie te maken om de context beter te kunnen beschrijven. In dat document heb ik aan de nieuwe inleiding, projectomschrijving, design principles en de database.
       </p>
       </div>
       </div>
