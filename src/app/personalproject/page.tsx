@@ -12,7 +12,7 @@ export default function PersonalProject() {
     <br></br>
     <p>
         Na een gesprek te hebben gehad met Arjan en Bart ben ik begonnen aan mijn personal project. Ik ben onderzoek gaan doen naar de verschillen
-        in Western en Eastern design. Dit was een <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport">Research report</a> wat ik ook voor mijn minor moest doen, alleen richtte zich dat voornamelijk op wat British
+        in Western en Eastern design. Dit was een <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport.pdf">Research report</a> wat ik ook voor mijn minor moest doen, alleen richtte zich dat voornamelijk op wat British
         Aesthetics toevoegen aan UX Design Globally. Dit onderzoek is wel belangrijk voor mijn project, omdat er belangrijke informatie in zit over hoe
         design voor verschillende cultureren anders kan zijn, dat verschillende landen emotioneel op een andere manier uiten. Ook laat het duidelijke
         verschillen tussen Western en Eastern design zien, die ik mee neem in het designen van mijn product.

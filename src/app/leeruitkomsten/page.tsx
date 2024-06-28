@@ -54,7 +54,7 @@ export default function Leeruitkomsten() {
     <a href="https://i461456.hera.fontysict.net/pdfs/Adviesrapport.pdf">adviesdocument(onder andere de design principles)</a>
     <br></br><br></br>
     <h3>Personal project</h3>
-    <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport">Research report</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport.pdf">Research report</a>
     <a href="https://i461456.hera.fontysict.net/pdfs/interviewaliexpress">kleine interview AliExpress</a>
     <br></br><br></br><br></br>
     <h2>Learning outcome 3: Software design and realisation </h2>
