@@ -21,7 +21,7 @@ export default function PersonalProject() {
         Ik heb gekozen om AliExpress om te zetten naar een meer Western design style, want ik merkte zelf al dat er best wat verbeteringen gemaakt
         konden worden aan de website en het erg op een eastern design leek ondanks dat de website in het Nederlands stond.
         <br></br><br></br>
-        Om te testen wat gebruikers van de huidige AliExpress website vinden, ben ik een <a href="https://i461456.hera.fontysict.net/pdfs/interviewaliexpress">kleine interview</a> met meerdere mensen gaan houden.
+        Om te testen wat gebruikers van de huidige AliExpress website vinden, ben ik een <a href="https://i461456.hera.fontysict.net/pdfs/Usertestonderzoek.pdf">kleine interview</a> met meerdere mensen gaan houden.
         Hier kwamen best wel wat punten uit die ik heb meegenomen in het maken van mijn <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=140-2&t=F1iNUCoUyh4PxCti-0">wireframes en designs</a>.
         <br></br><br></br>
         Tijdens dit project heb ik ook wat tijd besteed aan mijn portfolio website, om deze om te zetten van figma naar een next.js website.
