@@ -32,8 +32,8 @@ export default function Leeruitkomsten() {
     <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=51-2&t=Boguy6pgqPYPqCvU-0">contact en artikel pagina</a>
     <br></br><br></br>
     <h3>Personal Project</h3>
-    <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport">Research report</a>
-    <a href="https://i461456.hera.fontysict.net/pdfs/interviewaliexpress">kleine interview AliExpress</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport.pdf">Research report</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Usertestonderzoek.pdf">kleine interview AliExpress</a>
     <a href="https://www.figma.com/design/Jbx1HThdoib8hTtcsnOfPd/Untitled?node-id=140-2&t=F1iNUCoUyh4PxCti-0">wireframes en designs</a>
 
     <br></br><br></br><br></br>
@@ -55,7 +55,7 @@ export default function Leeruitkomsten() {
     <br></br><br></br>
     <h3>Personal project</h3>
     <a href="https://i461456.hera.fontysict.net/pdfs/ResearchReport.pdf">Research report</a>
-    <a href="https://i461456.hera.fontysict.net/pdfs/interviewaliexpress">kleine interview AliExpress</a>
+    <a href="https://i461456.hera.fontysict.net/pdfs/Usertestonderzoek.pdf">kleine interview AliExpress</a>
     <br></br><br></br><br></br>
     <h2>Learning outcome 3: Software design and realisation </h2>
     <h3>MasterMinds Project</h3>
